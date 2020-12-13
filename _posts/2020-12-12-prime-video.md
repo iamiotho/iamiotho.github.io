@@ -2,7 +2,7 @@
 layout: post
 title: "Prime Video Movies"
 author: "IOTHO"
-categories: sample
+categories: posts
 tags: [Movies, Prime Video]
 image: arctic-1.jpg
 ---
