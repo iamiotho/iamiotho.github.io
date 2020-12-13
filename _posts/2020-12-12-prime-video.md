@@ -8,11 +8,10 @@ image: nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg
 ---
 
 Are you Bored and seaching for movies to watch! \
-Here's a list of movies that you can watch on Prime Video - India.
+Here's a list of movies that you can watch on Prime Video - India. \
+Less known but must watch movies are listed at the top. \
 
 
-
-### Harry Potter Series
 
 ### Tom Hanks movies
      * Cast Away
@@ -21,11 +20,6 @@ Here's a list of movies that you can watch on Prime Video - India.
      * Forrest Gump 
      * Saving Private Ryan. 
      
-### Jason Bourne Series
-
-### The Shawshank Redemption
-
-### The Pursuit of Happyness
 
 ### Has Fallen Series
      * Olympus Has Fallen
@@ -33,6 +27,12 @@ Here's a list of movies that you can watch on Prime Video - India.
      * Angel Has Fallen
      
 ### Edge of Tomorrow
+### Zero Dark Thirty
+### White house Down
+### Jason Bourne Series
+### The Shawshank Redemption
+### The Pursuit of Happyness
+### Harry Potter and fantastic Beasts Series
 
 
 
