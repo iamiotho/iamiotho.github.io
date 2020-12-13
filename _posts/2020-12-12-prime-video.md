@@ -3,7 +3,7 @@ layout: post
 title: "Prime Video Movies"
 author: "IOTHO"
 categories: blog
-tags: [sample]
+tags: [Movies, Prime Video, Entertainment]
 image: arctic-1.jpg
 ---
 
@@ -12,9 +12,9 @@ Here's a list of movies that you can watch on Prime Video - India.
 
 
 
-### 1. Harry Potter Series.
+### 1. Harry Potter Series
 
-### 2. Tom Hanks movies.
+### 2. Tom Hanks movies
      * Cast Away
      * Sully
      * You've Got a Mail
