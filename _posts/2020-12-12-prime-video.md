@@ -15,7 +15,7 @@ you may not of heard of and are available on Prime Video - India.
 ### Tom Hanks movies
      * Cast Away
      * Sully
-     * You've Got a Mail
+     * The terminal
      * Forrest Gump 
      * Saving Private Ryan. 
      
@@ -25,13 +25,14 @@ you may not of heard of and are available on Prime Video - India.
      * London Has Fallen
      * Angel Has Fallen
      
+### The Polar Express
 ### Edge of Tomorrow
 ### Zero Dark Thirty
-### White house Down
+### White House Down
 ### Jason Bourne Series
 ### The Shawshank Redemption
 ### The Pursuit of Happyness
-### Harry Potter and fantastic Beasts Series
+### Harry Potter and Fantastic Beasts Series
 
 
 
