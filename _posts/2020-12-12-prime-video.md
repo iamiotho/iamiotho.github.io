@@ -7,7 +7,7 @@ tags: [Movies, Prime Video, Entertainment]
 image: arctic-1.jpg
 ---
 
-Are you Bored? Seaching for movies to watch! /n
+Are you Bored? Seaching for movies to watch! \
 Here's a list of movies that you can watch on Prime Video - India.
 
 
