@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prime Video Movies"
+title: "Awesome Prime Video Movies"
 author: "IOTHO"
 categories: blog
 tags: [Movies, Prime Video, Entertainment]
@@ -9,7 +9,8 @@ image: nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg
 
 Are you Bored and seaching for movies to watch! \
 Here's a list of movies that you can watch on Prime Video - India. \
-Less known but must watch movies are listed at the top. \
+This is not an exhaustive list, but one that are enjoyable but you may not of heard of.
+
 
 
 
