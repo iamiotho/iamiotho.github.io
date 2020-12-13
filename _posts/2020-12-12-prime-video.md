@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Prime Video Movies"
 author: "Paul Le"
 categories: sample
 tags: [sample]
