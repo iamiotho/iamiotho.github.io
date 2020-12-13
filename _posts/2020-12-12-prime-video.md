@@ -12,9 +12,9 @@ Here's a list of movies that you can watch on Prime Video - India.
 
 
 
-### * Harry Potter Series
+### Harry Potter Series
 
-### * Tom Hanks movies
+### Tom Hanks movies
      * Cast Away
      * Sully
      * You've Got a Mail
