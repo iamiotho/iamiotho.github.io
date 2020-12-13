@@ -7,19 +7,18 @@ tags: [sample]
 image: arctic-1.jpg
 ---
 
-# Markdown Support
-
-# Bored, Here's a list of movies that you can watch on Prime Video - India.
+# Are you Bored?, seaching for movies to watch! Here's a list of movies that you can watch on Prime Video - India.
 
 
-# 1. General Movies
-     1. Harry Potter Series.
-     2. Tom Hanks movies.
-        * Cast Away
-        * Sully
-        * You've Got a Mail
-        * Forrest Gump 
-        * Saving Private Ryan. 
+
+#1. Harry Potter Series.
+#2. Tom Hanks movies.
+  * Cast Away
+  * Sully
+  * You've Got a Mail
+  * Forrest Gump 
+  * Saving Private Ryan. 
+
 
 
 More Coming Soon...
