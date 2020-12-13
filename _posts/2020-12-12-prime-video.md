@@ -4,7 +4,7 @@ title: "Prime Video Movies"
 author: "IOTHO"
 categories: blog
 tags: [Movies, Prime Video, Entertainment]
-image: arctic-1.jpg
+image: nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg
 ---
 
 Are you Bored? Seaching for movies to watch! \
