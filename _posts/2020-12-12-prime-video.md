@@ -9,7 +9,7 @@ image: nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg
 
 Are you Bored and seaching for movies to watch! \
 Here's a list of movies that are enjoyable and/or **masterpieces** but\
-you may not of heard of and are available on Prime Video - India. \
+you may not of heard of and are available on Prime Video - India.
 
 
 ### Tom Hanks movies
