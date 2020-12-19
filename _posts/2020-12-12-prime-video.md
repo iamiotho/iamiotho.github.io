@@ -8,13 +8,17 @@ image: nicolas-j-leclercq-qDLLP0yP7FU-unsplash.jpg
 ---
 
 Are you Bored and seaching for movies to watch! \
-Here's a list of movies that are enjoyable and/or **masterpieces** but\
-you may not of heard of and are available on Prime Video - India.
+Here's a list of movies that are enjoyable and/or **masterpieces** \
+but you may not of heard of and are available on Prime Video - India.\
+\
+All the movies are **perfect** entertainers, \
+but in case want some kind of rating, you I have given IMDB type rating. (Personal Opinion)
 
 
-### Tom Hanks movies
-     * __The Terminal__
-     * __Forrest Gump__
+
+### Tom Hanks
+     * The Terminal
+     * Forrest Gump
      * Cast Away
      * Sully
      * Saving Private Ryan. 
@@ -42,14 +46,12 @@ you may not of heard of and are available on Prime Video - India.
     
 ### The Shawshank Redemption
     You should have already watched it.
-    If you haven't already, its your chance to __redeem__ yourself.
+    If you haven't already, its your chance to redeem yourself.
     
 ### The Pursuit of Happyness
     Same as above. Go watch it now if you haven't.
     Best of Feel Good and inspirational movies.
     
-### Harry Potter and Fantastic Beasts Series
-    Please leave now if you haven't watched this series multiple times. Avada Kedavra!
     
 
 Please comment if you have any suggestions.
