@@ -11,8 +11,8 @@ Are you Bored and seaching for movies to watch! \
 Here's a list of movies that are enjoyable and/or **masterpieces** \
 but you may not of heard of and are available on Prime Video - India.\
 \
-All the movies are **perfect** entertainers, \
-but in case want some kind of rating, you I have given IMDB type rating. (Personal Opinion)
+All the movies are **perfect** entertainers, but in case want some kind of rating, \
+you I have given IMDB type rating. (Personal Opinion)
 
 
 
