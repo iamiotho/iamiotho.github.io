@@ -13,8 +13,8 @@ you may not of heard of and are available on Prime Video - India.
 
 
 ### Tom Hanks movies
-     * **The Terminal**
-     * **Forrest Gump** 
+     * __The Terminal__
+     * __Forrest Gump__
      * Cast Away
      * Sully
      * Saving Private Ryan. 
@@ -42,7 +42,7 @@ you may not of heard of and are available on Prime Video - India.
     
 ### The Shawshank Redemption
     You should have already watched it.
-    If you haven't already, its your chance to **redeem** yourself.
+    If you haven't already, its your chance to __redeem__ yourself.
     
 ### The Pursuit of Happyness
     Same as above. Go watch it now if you haven't.
